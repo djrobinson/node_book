@@ -12,3 +12,4 @@ var em = new (require('events').EventEmitter)();
 //('Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque dolorem non nostrum minima reiciendis nam tempore velit fugit ex aut quisquam accusantium, ipsa quaerat adipisci, id suscipit. Aspernatur, recusandae, odio!')
 //('Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque dolorem non nostrum minima reiciendis nam tempore velit fugit ex aut quisquam accusantium, ipsa quaerat adipisci, id suscipit. Aspernatur, recusandae, odio!')
 //('Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque dolorem non nostrum minima reiciendis nam tempore velit fugit ex aut quisquam accusantium, ipsa quaerat adipisci, id suscipit. Aspernatur, recusandae, odio!')
+//writing a new stirngwriting this stringwriting this stringwriting this stringwriting this string
